@@ -13,7 +13,7 @@
 % python3 -m venv venv
 % . ./venv/bin/activate
 % pip install -r requirements.txt
-% echo "export export DISCORD_TOKEN={TOKEN}" > .env
+% echo "export DISCORD_TOKEN={TOKEN}" > .env
 % echo "{}" > db.json
 ```
 
