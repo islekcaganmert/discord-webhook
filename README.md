@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is archived as I am unable to maintain it since Discord is banned here.
+> I am planning to re-write as soon as Discord gets unbanned.
+
 # Discord Webhook
 
 ### Requirements
